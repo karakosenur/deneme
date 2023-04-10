@@ -6,5 +6,6 @@ public class Deneme {
         // bi yerden onun github baglaniyor sanki ama nereden anlamiyorum
 
         //hocam bilgisayara format atsak duzelir mi ins
+        // asdasdassad
     }
 }
