@@ -4,5 +4,7 @@ public class Deneme {
 
         //hocam bu bilgisayar abimindi. altta diyor ya denied to nunix123 diye
         // bi yerden onun github baglaniyor sanki ama nereden anlamiyorum
+
+        //hocam bilgisayara format atsak duzelir mi ins
     }
 }
